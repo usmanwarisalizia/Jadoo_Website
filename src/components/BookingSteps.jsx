@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/components/BookingSteps.css';
+import '../Styles/BookingSteps.css';
 import tripImage from '../assets/trip.png';
 import { FaMapMarkerAlt, FaCreditCard, FaPlaneDeparture } from 'react-icons/fa';
 

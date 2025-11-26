@@ -3,7 +3,7 @@ import weatherImg from "../assets/weather.png";
 import planeImg from "../assets/plane.png";
 import eventImg from "../assets/event.png";
 import customImg from "../assets/customisation.png";
-import "../styles/components/Services.css";
+import "../Styles/Services.css";
 
 const Services = () => {
     const services = [

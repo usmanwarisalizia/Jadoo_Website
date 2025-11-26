@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/components/Destinations.css';
+import '../Styles/Destinations.css';
 import destination1 from '../assets/destination-1.jpg';
 import destination2 from '../assets/destination-2.jpg';
 import destination3 from '../assets/destination-3.jpg';

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../styles/components/Footer.css';
+import '../Styles/Footer.css';
 import googleplay from '../assets/google-play.jpg';
 import appstore from '../assets/app-store.jpg';
 

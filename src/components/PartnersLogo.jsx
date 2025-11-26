@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Styles/components/PartnersLogo.css';
+import '../Styles/PartnersLogo.css';
 import image1 from '../assets/img1.png';
 import image2 from '../assets/img2.png';
 import image3 from '../assets/img3.png';
